@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gaetano Montalto</h1>
+<!DOCTYPE html>
+<html>
+
+  <body>
+    <h1 align="center">Hi 👋, I'm Gaetano Montalto</h1>
 <h3 align="center">I'm a Junior FullStack Developer who's learning React and Asp.Net as main technologies!</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dedalo01&label=Profile%20views&color=0e75b6&style=flat" alt="dedalo01" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=dedalo01&label=Profile%20views&color=0e75b6&style=flat" alt="dedalo01" /> 
+</p>
 
 - ⚡ Fun fact **I love Tabletop Games and sometimes I play Commander Mtg**
 
@@ -67,7 +73,7 @@
   </a> 
 </p>
 
-
+<div>
 <p>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dedalo01&theme=onedark" alt="dedalo01" />
 </p>
@@ -76,7 +82,14 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=dedalo01&show_icons=true&locale=en&theme=onedark" alt="dedalo01" />
 </p>
 
-  
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedalo01&show_icons=true&locale=en&layout=compact&theme=onedark" alt="dedalo01" />
 </p>
+</div>
+
+  </body>
+</html>
+
+
+
+  
