@@ -75,11 +75,11 @@
 
 <div>
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dedalo01&theme=onedark" alt="dedalo01" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dedalo01&theme=onedark" alt="dedalo01" />
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dedalo01&show_icons=true&locale=en&theme=onedark" alt="dedalo01" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dedalo01&show_icons=true&locale=en&theme=onedark" alt="dedalo01" />
 </p>
 
 <p>
